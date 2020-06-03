@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import CustomPreview from './CustomPreview'
 import CustomInput from './CustomInput'
+import TextOverlay from './TextOverlay'
 // import Logo from '../m.svg'
 import './EngravingBoard.css'
 
@@ -22,6 +23,7 @@ export default class EngravingBoard extends Component {
         {/* <img id="logo" src={Logo} alt="Logo" /> */}
         <CustomPreview class="grid-item" />
         <CustomInput class="grid-item" onChange={this.onChange}/>
+        <TextOverlay class="text-overlay" embellishment={this.state.input}/>
       </div>
     )
   }

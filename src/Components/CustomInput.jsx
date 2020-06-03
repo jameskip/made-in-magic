@@ -1,10 +1,14 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import { Input } from 'antd'
 import './CustomInput.css'
 
 export default class CustomInput extends Component {
-  constructor (props) {
-    super(props)
+  static get propTypes () {
+    return {
+      children: PropTypes.any,
+      onChange: PropTypes.func
+    }
   }
 
   handleChange (e) {
