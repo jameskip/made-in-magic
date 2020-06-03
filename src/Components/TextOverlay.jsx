@@ -16,7 +16,7 @@ export default class TextOverlay extends Component {
 
   render () {
     return (
-      <div>
+      <div id="embellishment">
         {this.props.embellishment}
       </div>
     )

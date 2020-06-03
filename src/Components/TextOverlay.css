@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "MarkPro";
+  src: url("../WOF\ FF\ Mark/MarkPro.woff") format("woff");
+}
+
+#embellishment {
+  font-family: "MarkPro";
+}
