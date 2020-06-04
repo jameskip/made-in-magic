@@ -1,8 +1,21 @@
 @font-face {
   font-family: "MarkPro";
-  src: url("../WOF\ FF\ Mark/MarkPro.woff") format("woff");
+  src: url("../WOF\ FF\ Mark/MarkPro-Medium.woff") format("woff");
 }
 
 #embellishment {
   font-family: "MarkPro";
+  white-space: nowrap;
+  direction: rtl;
+}
+
+.text-block {
+  position: absolute;
+  top: 455px;
+  left: 540px;
+  color: rgba(62, 62, 62, 0.8);
+  transform: skewY(156.2deg);
+  width: 200px;
+  max-width: 200px;
+  font-size: 1.4rem;
 }

@@ -2,6 +2,7 @@
   "name": "made-in-magic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jameskip.github.io/made-in-magic",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

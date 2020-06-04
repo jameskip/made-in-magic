@@ -5,7 +5,7 @@ import './CustomPreview.css'
 export default class CustomPreview extends Component {
   render () {
     return (
-      <div>
+      <div className='container'>
         <img alt="Knife preview" id="knife-preview" src={KnifePreview} />
       </div>
     )

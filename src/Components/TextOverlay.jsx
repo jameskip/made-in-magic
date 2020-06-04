@@ -10,13 +10,9 @@ export default class TextOverlay extends Component {
     }
   }
 
-  componentDidMount () {
-    console.log(this.props)
-  }
-
   render () {
     return (
-      <div id="embellishment">
+      <div className='text-block' id="embellishment">
         {this.props.embellishment}
       </div>
     )
