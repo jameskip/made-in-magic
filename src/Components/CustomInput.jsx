@@ -5,11 +5,6 @@ import { Input, Checkbox } from 'antd'
 import './CustomInput.css'
 
 export default class CustomInput extends Component {
-  constructor (props) {
-    super(props)
-    this.state = { checked: this.props.engravingChecked }
-  }
-
   static get propTypes () {
     return {
       children: PropTypes.any,
@@ -18,10 +13,6 @@ export default class CustomInput extends Component {
       engravingChecked: PropTypes.bool,
       onCheckboxChange: PropTypes.func
     }
-  }
-
-  componentDidMount () {
-    console.log(this.props)
   }
 
   render () {
