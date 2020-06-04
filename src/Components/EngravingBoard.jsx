@@ -12,14 +12,9 @@ export default class EngravingBoard extends Component {
     this.state = { input: 'Nick Papagiorgio', engravingChecked: false }
   }
 
-  onChange (e) {
-    this.setState({ input: e.target.value })
-  }
+  onChange (e) { this.setState({ input: e.target.value } }
 
-  async onCheckboxChange (e) {
-    await this.setState({ input: '', engravingChecked: e.target.checked })
-    await console.log(this.state)
-  }
+  onCheckboxChange (e) { this.setState({ input: '', engravingChecked: e.target.checked }) }
 
   render () {
     return (
