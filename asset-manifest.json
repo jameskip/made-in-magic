@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/made-in-magic/static/css/main.0e0ce8cd.chunk.css",
-    "main.js": "/made-in-magic/static/js/main.73accbff.chunk.js",
-    "main.js.map": "/made-in-magic/static/js/main.73accbff.chunk.js.map",
+    "main.js": "/made-in-magic/static/js/main.6075973d.chunk.js",
+    "main.js.map": "/made-in-magic/static/js/main.6075973d.chunk.js.map",
     "runtime-main.js": "/made-in-magic/static/js/runtime-main.21edd4bc.js",
     "runtime-main.js.map": "/made-in-magic/static/js/runtime-main.21edd4bc.js.map",
     "static/js/2.baf2e8ad.chunk.js": "/made-in-magic/static/js/2.baf2e8ad.chunk.js",
     "static/js/2.baf2e8ad.chunk.js.map": "/made-in-magic/static/js/2.baf2e8ad.chunk.js.map",
     "index.html": "/made-in-magic/index.html",
-    "precache-manifest.698576a68da1079902334e4d135216c6.js": "/made-in-magic/precache-manifest.698576a68da1079902334e4d135216c6.js",
+    "precache-manifest.f79572e3f37df09f6407b70483fd4a59.js": "/made-in-magic/precache-manifest.f79572e3f37df09f6407b70483fd4a59.js",
     "service-worker.js": "/made-in-magic/service-worker.js",
     "static/css/main.0e0ce8cd.chunk.css.map": "/made-in-magic/static/css/main.0e0ce8cd.chunk.css.map",
     "static/js/2.baf2e8ad.chunk.js.LICENSE.txt": "/made-in-magic/static/js/2.baf2e8ad.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.21edd4bc.js",
     "static/js/2.baf2e8ad.chunk.js",
     "static/css/main.0e0ce8cd.chunk.css",
-    "static/js/main.73accbff.chunk.js"
+    "static/js/main.6075973d.chunk.js"
   ]
 }
