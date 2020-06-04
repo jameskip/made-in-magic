@@ -13,7 +13,9 @@ export default class TextOverlay extends Component {
   render () {
     return (
       <div className='text-block' id="embellishment">
-        {this.props.embellishment}
+        <bdi>
+          {this.props.embellishment}
+        </bdi>
       </div>
     )
   }
