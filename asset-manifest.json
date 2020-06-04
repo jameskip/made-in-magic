@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/made-in-magic/static/css/main.0e0ce8cd.chunk.css",
+    "main.js": "/made-in-magic/static/js/main.73accbff.chunk.js",
+    "main.js.map": "/made-in-magic/static/js/main.73accbff.chunk.js.map",
+    "runtime-main.js": "/made-in-magic/static/js/runtime-main.21edd4bc.js",
+    "runtime-main.js.map": "/made-in-magic/static/js/runtime-main.21edd4bc.js.map",
+    "static/js/2.baf2e8ad.chunk.js": "/made-in-magic/static/js/2.baf2e8ad.chunk.js",
+    "static/js/2.baf2e8ad.chunk.js.map": "/made-in-magic/static/js/2.baf2e8ad.chunk.js.map",
+    "index.html": "/made-in-magic/index.html",
+    "precache-manifest.698576a68da1079902334e4d135216c6.js": "/made-in-magic/precache-manifest.698576a68da1079902334e4d135216c6.js",
+    "service-worker.js": "/made-in-magic/service-worker.js",
+    "static/css/main.0e0ce8cd.chunk.css.map": "/made-in-magic/static/css/main.0e0ce8cd.chunk.css.map",
+    "static/js/2.baf2e8ad.chunk.js.LICENSE.txt": "/made-in-magic/static/js/2.baf2e8ad.chunk.js.LICENSE.txt",
+    "static/media/TextOverlay.css": "/made-in-magic/static/media/MarkPro-Medium.3d1e8c13.woff",
+    "static/media/knife-preview.png": "/made-in-magic/static/media/knife-preview.df57c686.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21edd4bc.js",
+    "static/js/2.baf2e8ad.chunk.js",
+    "static/css/main.0e0ce8cd.chunk.css",
+    "static/js/main.73accbff.chunk.js"
+  ]
+}
