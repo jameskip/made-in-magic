@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { Input, Checkbox } from 'antd'
-
 import './CustomInput.css'
 
 export default class CustomInput extends Component {
@@ -18,9 +17,7 @@ export default class CustomInput extends Component {
   render () {
     return (
       <div className="container">
-
         <div id="text-input">
-
           <div id="engraving-checkbox">
             <Checkbox onChange={this.props.onCheckboxChange}>Engraving</Checkbox>
           </div>
